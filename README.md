@@ -1,6 +1,6 @@
  # 👋 Hi, I'm Chityala Sriram 
 
-🚀 Computer Science Engineering Student | Full-Stack Developer
+Computer Science Engineering Student | Full-Stack Developer
 
 Passionate CSE student with a strong interest in software development, problem-solving, and emerging technologies. Skilled in Java, Python, SQL, React, HTML, CSS, and JavaScript. Currently focused on building real-world applications and strengthening my understanding of full-stack development.
 
