@@ -1,4 +1,4 @@
- # Hi there, I'm Sriram 👋
+ # 👋 Hi, I'm Chityala Sriram 
 
 🚀 Computer Science Engineering Student | Full-Stack Developer
 
