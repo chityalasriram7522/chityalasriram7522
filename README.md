@@ -6,23 +6,23 @@
       <img src="./ascii-art%20%20mass.png" alt="ASCII Art" width="100%"/>
     </td>
     <td width="50%" valign="top">
-<pre><code>sriram@portfolio
-----------------
-OS: .............  Windows
-Role: ........... Front-End Developer & Engineer
-Host: ........... CSE Undergrad
-IDE: ............ VS Code
+ <pre><code>sriram@portfolio --------------------------------------------~-'-
+. OS: ................................... Ubuntu Linux, Windows 11
+. Role: ......................... Full-Stack Developer & Engineer
+. Host: ........................................... CSE Undergrad
+. IDE: ....................................... VS Code, IntelliJ
 
+. Languages.Programming: ................... Python, Java, C, C++
+. Languages.Web: ........ JavaScript, React.js, Node.js, Express
+. Databases: ...................................... MongoDB, SQL
+. Tools.Cloud: ........................... Git, GitHub, AWS, Linux
 
-Languages.Prog: . Python, Java
-Languages.Web: .. JS, React.js, Node.js, Express.js
-Databases: ...... MongoDB, SQL
-Tools & Cloud: .. Git, GitHub, Figma, AWS Linux
 - Contact ---------------------------------------------------~-'-
-Email: .......... sriramchityala7522@gmail.com
-LinkedIn: ....... chityala sriram
-GitHub: ......... @chityalasriram7522
-Projects & Focus ------------------------------------------~-'-
+. Email: ........................... sriramchityala7522@gmail.com
+. LinkedIn: ..................................... chityala-sriram
+. GitHub: .................................... @chityalasriram7522
+
+- Projects & Focus ------------------------------------------~-'-
 . Highlights: ................... CareConnect AI, Bhagavad Gita
 . Interests: ................. Machine Learning, Web Technologies</code></pre>
     </td>
