@@ -1,11 +1,13 @@
  # 👋 Hi, I'm Chityala Sriram 
 
- 
+
+
+# 👋 Hi, I'm Chityala Sriram
 
 <table>
   <tr>
-    <td width="50%" align="center" valign="top">
-      <img src="[https://github.com/chityalasriram7522/chityalasriram7522/blob/main/ascii-art%20%20mass.png?raw=true](https://github.com/chityalasriram7522/chityalasriram7522/blob/main/ascii-art%20%20mass.png?raw=true)" alt="ASCII Art" width="100%"/>
+    <td width="50%" align="center" valign="middle">
+      <img src="./ascii-art%20%20mass.png" alt="ASCII Art" width="100%"/>
     </td>
     <td width="50%" valign="top">
 <pre><code>sriram@portfolio
@@ -30,7 +32,6 @@ Highlights: ..... CareConnect AI, Web Apps</code></pre>
     </td>
   </tr>
 </table>
-
 Passionate CSE student with a strong interest in software development, problem-solving, and emerging technologies. Skilled in Java, Python, SQL, React, HTML, CSS, and JavaScript. Currently focused on building real-world applications and strengthening my understanding of full-stack development.
 
 - Developing projects that solve practical problems
