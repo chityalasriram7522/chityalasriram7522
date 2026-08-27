@@ -11,18 +11,16 @@ OS: ............. Linux (Ubuntu) / Windows
 Role: ........... Front-End Developer & Engineer
 Host: ........... CSE Undergrad
 IDE: ............ VS Code
-
+<br>
 Languages.Prog: . Python, Java
 Languages.Web: .. JS, React.js, Node.js, Express.js
 Databases: ...... MongoDB, SQL
 Tools & Cloud: .. Git, GitHub, Figma, AWS Linux
-
-- Contact
+Contact
 Email: .......... sriramchityala7522@gmail.com
 LinkedIn: ....... chityala sriram
 GitHub: ......... @chityalasriram7522
-
-- Projects & Focus
+Projects & Focus
 Highlights: ..... CareConnect AI, Web Apps</code></pre>
     </td>
   </tr>
