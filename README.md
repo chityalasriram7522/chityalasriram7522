@@ -4,7 +4,7 @@
     <td width="50%" align="center" valign="middle">
       <img src="./ascii-art%20%20mass.png" alt="ASCII Art" width="100%"/>
     </td>
-    <td width="20%" valign="top">
+    <td width="20%" >
 <pre><code>sriram@portfolio --------------------------------------------~-'-
 . OS: ................................... Ubuntu Linux, Windows 11
 . Role: ......................... Full-Stack Developer & Engineer
