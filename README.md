@@ -5,7 +5,7 @@
 
  <table width="100%">
   <tr>
-    <td width="50%" align="center" valign="middle">
+    <td width="70%" align="center" valign="middle">
       <img src="./ascii-art%20%20mass.png" alt="ASCII Art" width="100%"/>
     </td>
     <td width="50%" valign="top">
