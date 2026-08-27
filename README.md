@@ -12,7 +12,7 @@
 . Host: .............................. CSE Undergrad
 . IDE: ..................................... VS Code   
     <br>
-  Skills
+Skills
 . Languages.Prog: ..................... Python, Java
 . Languages.Web: .. JavaScript, React.js,Html,Css,Gsap
 . Databases: .......................... MongoDB, SQL
@@ -23,7 +23,7 @@ Contact
 . LinkedIn: ........................ chityala sriram
 . GitHub: ...................... @chityalasriram7522
    <br>
- Projects & Focus 
+Projects & Focus 
 . Highlights: .......... CareConnect AI
 . Interests: .............. AI Enginering, Web AI
 
