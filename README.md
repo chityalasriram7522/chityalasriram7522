@@ -4,7 +4,7 @@
     <td width="50%" align="center" valign="middle">
       <img src="./ascii-art%20%20mass.png" alt="ASCII Art" width="100%"/>
     </td>
-    <td width="70%" >
+    <td width="70%" valign="top" >
 <pre><code>sriram@portfolio
 ----------------
  . OS: ............. Linux (Ubuntu) / Windows
