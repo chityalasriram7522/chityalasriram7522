@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td width="50%" align="center" valign="top">
-      <img src="[https://raw.githubusercontent.com/chityalasriram7522/chityalasriram7522/main/ascii-art%20%20mass.png](https://raw.githubusercontent.com/chityalasriram7522/chityalasriram7522/main/ascii-art%20%20mass.png)" alt="ASCII Art" width="100%"/>
+      <img src="[https://github.com/chityalasriram7522/chityalasriram7522/blob/main/ascii-art%20%20mass.png?raw=true](https://github.com/chityalasriram7522/chityalasriram7522/blob/main/ascii-art%20%20mass.png?raw=true)" alt="ASCII Art" width="100%"/>
     </td>
     <td width="50%" valign="top">
 <pre><code>sriram@portfolio
