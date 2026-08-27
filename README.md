@@ -25,7 +25,17 @@ Contact
    <br>
  Projects & Focus 
 . Highlights: .......... CareConnect AI
-. Interests: .............. AI Enginering, Web AI</code></pre>
+. Interests: .............. AI Enginering, Web AI
+
+<br> 
+Certifications
+. DSA: .............................. Java Deep Dive
+. Cloud: ............................. Python for AWS
+. Deloitte: ........ Data Analytics
+. TechAugusta: .......... Python Certification 
+
+
+</code></pre>
     </td>
   </tr>
 </table>
