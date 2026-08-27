@@ -13,9 +13,9 @@
 . IDE: ..................................... VS Code   
     <br>
 . Languages.Prog: ..................... Python, Java
-. Languages.Web: .. JS, React.js, Node.js, Express.js
+. Languages.Web: .. JavaScript, React.js,Html,Css,Gsap
 . Databases: .......................... MongoDB, SQL
-. Tools & Cloud: ......... Git, GitHub, Figma, Linux
+. Tools & Cloud: ......... Git, GitHub, Figma, AWS
   <br>
 Contact
 . Email: ............ sriramchityala7522@gmail.com
@@ -24,7 +24,7 @@ Contact
    <br>
  Projects & Focus 
 . Highlights: .......... CareConnect AI, Full-Stack
-. Interests: .............. Machine Learning, Web AI</code></pre>
+. Interests: .............. AI Enginering, Web AI</code></pre>
     </td>
   </tr>
 </table>
