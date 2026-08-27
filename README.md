@@ -1,9 +1,5 @@
  # 👋 Hi, I'm Chityala Sriram 
 
-
-
-# 👋 Hi, I'm Chityala Sriram
-
 <table>
   <tr>
     <td width="50%" align="center" valign="middle">
