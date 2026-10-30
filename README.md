@@ -25,7 +25,7 @@ Contact
 . GitHub: ...................... @chityalasriram7522
    <br>
 Projects & Focus 
-. Highlights: ....................... CareConnect AI
+. Highlights: .........Gita AI,Claimly,CareConnect AI
 . Interests: ..................AI Enginering, Web AI
 
 <br> 
