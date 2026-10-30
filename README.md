@@ -8,7 +8,7 @@
     <td width="50%" valign="top">
 <pre><code>sriram 
 . OS: .................... ..................Windows
-. Role: ......... ....Front-End Developer & Engineer
+. Role: ......... ....Front-End Developer & AI Engineer
 . Host: .............................. CSE Undergrad
 . IDE: ..................................... VS Code   
     <br>
