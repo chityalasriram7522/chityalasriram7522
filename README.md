@@ -16,23 +16,25 @@ Skills
 . Languages.Prog: ..................... Python, Java
 . Languages.Web:  JavaScript, React.js,Html,Css,Gsap
 . Databases: .......................... MongoDB, SQL
-. Tools & Cloud: ......... ..Git, GitHub, Figma, AWS
+. Tools & Cloud: ............Git, GitHub, Figma, AWS
+. AI Concepts..................LLMs ,RAGs ,AI Agents
   <br>
 Contact
-. Email: ............ ..sriramchityala7522@gmail.com
+. Email: ...............sriramchityala7522@gmail.com
 . LinkedIn: ........................ chityala sriram
 . GitHub: ...................... @chityalasriram7522
    <br>
 Projects & Focus 
 . Highlights: ....................... CareConnect AI
-. Interests: .............. ...AI Enginering, Web AI
+. Interests: ..................AI Enginering, Web AI
 
 <br> 
 Certifications
 . DSA: .............................. Java Deep Dive
 . Cloud: ............................. Python for AWS
-. Deloitte: ........ ..................Data Analytics
-. TechAugusta: .......... .......Python Certification 
+. Agentic AI :......................Oracle Agentic AI
+. Deloitte: ...........................Data Analytics
+. TechAugusta: ..................Python Certification 
 
 
 </code></pre>
